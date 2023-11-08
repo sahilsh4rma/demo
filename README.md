@@ -1,3 +1,3 @@
 # demo
-First git repo
+First git repository.
 <br>Author: Sahil Sharma</br>
